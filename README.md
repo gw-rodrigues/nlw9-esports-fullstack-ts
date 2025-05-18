@@ -50,6 +50,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/nlw9-esports-fullstack-ts?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/nlw9-esports-fullstack-ts?style=for-the-badge)
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/nlw9-esports-fullstack-ts?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/nlw9-esports-fullstack-ts?style=for-the-badge) 
 
 
